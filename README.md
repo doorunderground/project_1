@@ -1,7 +1,7 @@
 # project_1
 
 Infinite Stair Game (OpenCv/Python). 2026.01.09
-  문지하, 김진수, 구효제
+  - 문지하, 김진수, 구효제
 
   - 방향 입력(A / D)과 점프(SPACE)를 이용해
     무한히 생성되는 계단을 내려가는 타이밍 게임
